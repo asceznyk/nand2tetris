@@ -1,2 +1,2 @@
 # nand2tetris
-Notes for NAND2Tetris course, organised.
+Notes and assigments for NAND2Tetris course, organised.
